@@ -16,16 +16,24 @@ namespace StreamsAndAsync
             using (Stream ioStream = new
            FileStream(@"../stream_demo_file.txt", FileMode.OpenOrCreate))
             {
-                if (ioStream.CanWrite)
+                /*   if (ioStream.CanWrite)
+                   {
+                       ioStream.Write(messageBytes, 0, messageBytes.Length);
+                   }
+                   else
+                   {
+                       Console.WriteLine("Couldn't write to our data stream.");
+                 } */
+
+                using (StreamWriter sw = new StreamWriter(ioStream))
                 {
-                    ioStream.Write(messageBytes, 0, messageBytes.Length);
+                    sw.Write(testMessage);
+                    sw.BaseStream.Seek(10, SeekOrigin.Begin);
+                    sw.Write(testMessage);
                 }
-                else
-                {
-                    Console.WriteLine("Couldn't write to our data stream.");
-              }
-            }
-            Console.WriteLine("Done!");
+            } 
+
+                Console.WriteLine("Done!");
             Thread.Sleep(10000);
         }
     }
