@@ -11,6 +11,7 @@ namespace StreamsAndAsync
         {
             ComplexModel testModel = new ComplexModel();
             string testMessage = JsonConvert.SerializeObject(testModel);
+            //ComplexModel model = JsonConvert.Deserialize<ComplexModel>(testMessage);
             byte[] messageBytes = Encoding.UTF8.GetBytes(testMessage);
             using (Stream ioStream = new
            FileStream(@"../stream_demo_file.txt", FileMode.OpenOrCreate))
