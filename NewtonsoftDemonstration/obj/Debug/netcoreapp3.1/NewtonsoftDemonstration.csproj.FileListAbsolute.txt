@@ -2,3 +2,14 @@ D:\C#Projeleri\NewtonsoftDemonstration\NewtonsoftDemonstration\NewtonsoftDemonst
 D:\C#Projeleri\NewtonsoftDemonstration\NewtonsoftDemonstration\NewtonsoftDemonstration\obj\Debug\netcoreapp3.1\NewtonsoftDemonstration.csprojAssemblyReference.cache
 D:\C#Projeleri\NewtonsoftDemonstration\NewtonsoftDemonstration\NewtonsoftDemonstration\obj\Debug\netcoreapp3.1\NewtonsoftDemonstration.AssemblyInfoInputs.cache
 D:\C#Projeleri\NewtonsoftDemonstration\NewtonsoftDemonstration\NewtonsoftDemonstration\obj\Debug\netcoreapp3.1\NewtonsoftDemonstration.AssemblyInfo.cs
+D:\C#Projeleri\NewtonsoftDemonstration\NewtonsoftDemonstration\NewtonsoftDemonstration\obj\Debug\netcoreapp3.1\NewtonsoftDemonstration.csproj.CoreCompileInputs.cache
+D:\C#Projeleri\NewtonsoftDemonstration\NewtonsoftDemonstration\NewtonsoftDemonstration\bin\Debug\netcoreapp3.1\NewtonsoftDemonstration.deps.json
+D:\C#Projeleri\NewtonsoftDemonstration\NewtonsoftDemonstration\NewtonsoftDemonstration\bin\Debug\netcoreapp3.1\NewtonsoftDemonstration.runtimeconfig.json
+D:\C#Projeleri\NewtonsoftDemonstration\NewtonsoftDemonstration\NewtonsoftDemonstration\bin\Debug\netcoreapp3.1\NewtonsoftDemonstration.runtimeconfig.dev.json
+D:\C#Projeleri\NewtonsoftDemonstration\NewtonsoftDemonstration\NewtonsoftDemonstration\bin\Debug\netcoreapp3.1\NewtonsoftDemonstration.dll
+D:\C#Projeleri\NewtonsoftDemonstration\NewtonsoftDemonstration\NewtonsoftDemonstration\bin\Debug\netcoreapp3.1\NewtonsoftDemonstration.pdb
+D:\C#Projeleri\NewtonsoftDemonstration\NewtonsoftDemonstration\NewtonsoftDemonstration\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\C#Projeleri\NewtonsoftDemonstration\NewtonsoftDemonstration\NewtonsoftDemonstration\obj\Debug\netcoreapp3.1\NewtonsoftDemonstration.csproj.CopyComplete
+D:\C#Projeleri\NewtonsoftDemonstration\NewtonsoftDemonstration\NewtonsoftDemonstration\obj\Debug\netcoreapp3.1\NewtonsoftDemonstration.dll
+D:\C#Projeleri\NewtonsoftDemonstration\NewtonsoftDemonstration\NewtonsoftDemonstration\obj\Debug\netcoreapp3.1\NewtonsoftDemonstration.pdb
+D:\C#Projeleri\NewtonsoftDemonstration\NewtonsoftDemonstration\NewtonsoftDemonstration\obj\Debug\netcoreapp3.1\NewtonsoftDemonstration.genruntimeconfig.cache
