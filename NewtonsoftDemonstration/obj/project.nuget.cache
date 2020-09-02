@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "UcBgzx6Ab44IZDLPh3+10K10viozzhVSDLSGjU0aSdUgI1FqE2byoLTuunuZFMzUH4zNMZoet6uZU2PTmtYrDg==",
+  "dgSpecHash": "6WiKFWv6JIsf5OD237iNCUYh/iqZBy4qnmKUNPuLrQNCkB4xslIi5677LR40h7hLzis6F/R4ivevABFI0SBkGw==",
   "success": true,
   "projectFilePath": "D:\\C#Projeleri\\NewtonsoftDemonstration\\NewtonsoftDemonstration\\NewtonsoftDemonstration\\NewtonsoftDemonstration.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\suato\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

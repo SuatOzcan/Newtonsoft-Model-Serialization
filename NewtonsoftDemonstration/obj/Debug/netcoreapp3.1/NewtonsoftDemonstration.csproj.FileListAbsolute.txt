@@ -1,0 +1,4 @@
+D:\C#Projeleri\NewtonsoftDemonstration\NewtonsoftDemonstration\NewtonsoftDemonstration\bin\Debug\netcoreapp3.1\NewtonsoftDemonstration.exe
+D:\C#Projeleri\NewtonsoftDemonstration\NewtonsoftDemonstration\NewtonsoftDemonstration\obj\Debug\netcoreapp3.1\NewtonsoftDemonstration.csprojAssemblyReference.cache
+D:\C#Projeleri\NewtonsoftDemonstration\NewtonsoftDemonstration\NewtonsoftDemonstration\obj\Debug\netcoreapp3.1\NewtonsoftDemonstration.AssemblyInfoInputs.cache
+D:\C#Projeleri\NewtonsoftDemonstration\NewtonsoftDemonstration\NewtonsoftDemonstration\obj\Debug\netcoreapp3.1\NewtonsoftDemonstration.AssemblyInfo.cs
